@@ -7,10 +7,10 @@ describe('Contacts', () => {
     contacts: {
       email: '#',
       twitter: '#',
-      vkontakte: '#',
+      // vkontakte: '#',
       github: '#',
-      rss: '#',
-      telegram: '#'
+      // rss: '#',
+      // telegram: '#'
     }
   };
 

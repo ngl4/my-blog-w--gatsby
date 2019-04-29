@@ -2,7 +2,7 @@
 
 module.exports = {
   url: 'https://lumen.netlify.com',
-  title: 'Blog by John Doe',
+  title: 'Blog by Cindy Lam',
   subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
   copyright: '© All rights reserved.',
   disqusShortname: '',
@@ -23,16 +23,16 @@ module.exports = {
     }
   ],
   author: {
-    name: 'John Doe',
-    photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    name: 'Cindy Lam',
+    photo: '/Cindy.jpeg',
+    bio: 'Web Developer with great interest in CSS, 3D WebGL and AR',
     contacts: {
-      email: '#',
-      telegram: '#',
-      twitter: '#',
-      github: '#',
-      rss: '#',
-      vkontakte: '#'
+      email: 'cindybinh444@gmail.com',
+      // telegram: '#',
+      twitter: 'BCStory2',
+      github: 'ngl4',
+      // rss: '#',
+      // vkontakte: '#'
     }
   }
 };

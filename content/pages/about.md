@@ -1,5 +1,5 @@
 ---
-title: "About me"
+title: "<h1 你好 Chào />"
 template: "page"
 ---
 
