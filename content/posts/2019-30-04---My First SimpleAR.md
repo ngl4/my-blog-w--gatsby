@@ -18,7 +18,7 @@ description: "First AR App built with Unity using ARFoundation resources and Ude
 
 2. **ARCore vs ARKit** -- So glad to be able to learn about ARCore (offered by Google) and ARKit (brought by Apple). They are super amazing. [Here](https://medium.com/@knapenkjell/arcore-vs-arkit-ee0780c33b69) is a great resource for you to understand the difference between them. 
 
-  *Great News*: Today, Through the [this](https://www.udemy.com/learn-arcore-and-arkit-by-building-your-instagram-ar-portal/) Udemy Course, I am able to create my own really simple AR mobile application on my iOS device. 
+  *Great News*: Today, Through the [this](https://www.udemy.com/learn-arcore-and-arkit-by-building-your-instagram-ar-portal/) Udemy Course, I am able to create my own really simple AR mobile application on my iOS device. It is built with Unity and I have used the [ARFoundation Samples](https://github.com/Unity-Technologies/arfoundation-samples) documentation. 
 
   ![SimpleAR.jpeg](/media/SimpleAR.jpeg)
 
