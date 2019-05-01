@@ -1,4 +1,4 @@
----
+<!-- ---
 title: SAMPLE The Origins of Social Stationery Lettering
 date: "2016-12-01T22:40:32.169Z"
 template: "post"
@@ -61,4 +61,4 @@ $$
 \alpha = \dfrac{t}{t_{max}}*\dfrac{\log(v)}{\log(v_{max})}
 $$
 
-Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus.
+Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus. -->
