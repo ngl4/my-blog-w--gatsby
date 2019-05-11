@@ -13,7 +13,7 @@ tags:
 description: "How do I find a way to go to Google I/O Conference?"
 ---
 
-On April 19th, I got an email from LeeAnn Kinney, Director of Programs of [Girl Develop It](https://www.girldevelopit.com/) (a nonprofit organization for adult women in learning web and software development), about an opportunity going to Google I/O conference. I paid for the conference with an access code provided by the director, and so I only had to pay the academic ticket cost ($375.00), instead of the general ticket cost ($1,150). 
+On April 19th, I got an email from LeeAnn Kinney, Director of Programs of [Girl Develop It](https://www.girldevelopit.com/) (a nonprofit organization for adult women in learning web and software development), about an opportunity going to Google I/O conference. I paid for the conference with an access code provided by the director, and so I only had to pay the academic ticket cost, instead of the general ticket cost. 
 
 Besides the ticket cost, I also applied for the Women Techmakers Travel Grants, which could be extremely helpful to pay for the travelling and living expenses for my stay in San Francisco, which was financially challenging to me. Fortunately, on May 2nd, I got an email from LeeAnn informing me that I would be receiving a travel grant, which had helped me to pay all of my travelling and living expenses. 
 
