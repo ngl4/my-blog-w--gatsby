@@ -19,7 +19,7 @@ On April 19th, I got an **email** from LeeAnn Kinney, Director of Programs of [G
 ##Travel Grants
 Besides the conference ticket cost, I also applied for the **Women Techmakers Travel Grants**, which could be extremely helpful to pay for the travelling and living expenses for my stay in San Francisco, which was financially challenging to me. Fortunately, on May 2nd, I got an email from LeeAnn informing me that I would be receiving a travel grant, which had helped me to pay all of my travelling and living expenses. 
 
-##Roomate
+##Roommate
 Since it was my first time going to the California, I decided to reach out to the Women Techmakers community and GDI Philly community through slack channels to ask if anyone would need a roommate. Luckily, Dicko Sow, my roommate during the stay at the conference, reached out to me about it. Through her connection, we were able to find a better place to stay at San Francisco, which was only 3 minutes away from the Shuttle Pick Up Spot. I am really glad to have known Dicko. **We shared our stories, experience, and reflection after each day at the conference.** 
 
 ##Summary
