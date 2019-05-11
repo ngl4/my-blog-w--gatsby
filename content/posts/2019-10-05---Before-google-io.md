@@ -1,6 +1,6 @@
 ---
 title: Before Google I/O 2019 
-date: "2019-05-06T22:25:32.169Z"
+date: "2019-05-10T22:25:32.169Z"
 template: "post"
 draft: false
 slug: "/posts/before-google-io/"
