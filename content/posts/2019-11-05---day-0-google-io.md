@@ -19,6 +19,8 @@ description: "Badge Pick Up and Women Techmakers Dinner"
 
   Once we got to Mountain View Caltrain station, we took the **Google I/O Shuttle** to get to the Shoreline Amphitheatre. 
 
+  ![io-shuttle](/media/io-shuttle.jpg) 
+
   Unlike a lot of articles I had read from other attendees' past years conference experience, this year, there was no long line. I went in to check in and got my badge within **10 minutes** or less. 
 
   Then, I went to get lunch at Mountain View with Johnathan Friesen and **Frances Cooper**, a Computer Science PhD student from UK who will be interning at Google soon. We had great conversation about the conference and our experience. 
