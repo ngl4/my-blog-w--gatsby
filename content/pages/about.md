@@ -3,7 +3,7 @@ title: "<h1 你好 Chào />"
 template: "page"
 ---
 
-I am Binh Lam, go by Cindy, born in Vietnam and ethnically Chinese. I am a developer with a great interest in CSS, 3D WebGL, WebVR, as well as Mobile AR applications. I like building both iOS and Android applications. They are both really fun and interesting to me. I really hope to be able to slowly master all the above libraries, frameworks, and their associated languages. This blog will be documenting my personal learning progress and excitement for any new tech discovery, and hopefully it might help you too!
+I am Binh Lam, go by Cindy, born in Vietnam and ethnically Chinese. I am a developer with a great interest in 3D WebGL, WebVR, as well as Mobile AR applications. I like building both iOS and Android applications. They are both really fun and interesting to me. I really hope to be able to slowly master all the above libraries, frameworks, and their associated languages. This blog will be documenting my personal learning progress and excitement for any new tech discovery, and hopefully it might help you too!
 
 ![Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.](/media/image-2.jpg)
 

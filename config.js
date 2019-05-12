@@ -25,7 +25,7 @@ module.exports = {
   author: {
     name: 'Cindy Lam',
     photo: '/Cindy.jpeg',
-    bio: 'Web Developer with great interest in CSS, 3D WebGL and AR',
+    bio: 'Web Developer with great interest in 3D WebGL and AR',
     contacts: {
       email: 'cindybinh444@gmail.com',
       // telegram: '#',
