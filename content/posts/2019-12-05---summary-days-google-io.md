@@ -1,6 +1,6 @@
----
+<!-- ---
 title: Short Summary of 3 Days @ Google I/O 2019
-date: "2019-05-11T23:25:32.169Z"
+date: "2019-05-12T23:25:32.169Z"
 template: "post"
 draft: false
 slug: "/posts/day0-google-io/"
@@ -14,4 +14,4 @@ description: "Pre-Conference Badge Pick-Up and Women Techmakers Dinner"
 
 
 
-
+ -->
