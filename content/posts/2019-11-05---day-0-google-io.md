@@ -15,20 +15,15 @@ description: "Badge Pick Up and Women Techmakers Dinner"
 
   Once I got off the plane, I took the Bart train and Caltrain to get to Mountain View. Along the way, I am fortunate to meet **Johnathan Friesen**, an Android developer from Vancouver (also going to the Google I/O conference). We basically worked together to navigate through the public transportation. There was not enough clear signage to navigate around the train stations, especially it can be slightly frustrated for newcomers to navigate through the area by themselves. 
 
-  ![Caltrain](/media/Caltrain.jpeg =250x) 
+  ![Caltrain](/media/Caltrain.jpg) 
 
   Once we got to Mountain View Caltrain station, we took the **Google I/O Shuttle** to get to the Shoreline Amphitheatre. 
-
 
   Unlike a lot of articles I had read from other attendees' past years conference experience, this year, there was no long line. I went in to check in and got my badge within **10 minutes** or less. 
 
   Then, I went to get lunch at Mountain View with Johnathan Friesen and **Frances Cooper**, a Computer Science PhD student from UK who will be interning at Google soon. We had great conversation about the conference and our experience. 
 
   One side note, I really appreciated being able to meet different people along my way to and back from the badge pick up. No matter where you are, many interesting and bright people might be just right around you. But somehow, you might not have not noticed them. It has been great meeting you, **Carlos Chavez and Gilbert**.
-
-  ![CarlosChavez](/media/Shuttle-carlos.jpeg =250x) 
-  ![Gilbert](/media/Shuttle-gilbert.jpeg =250x) 
-  
 
 ## Women Techmakers Dinner 
 
@@ -51,7 +46,7 @@ description: "Badge Pick Up and Women Techmakers Dinner"
 
   3. **Ask** -- I personally find "asking" is a powerful communication tool for you to talk with another individual and to connect with them. When you ask, you show your curiosity to want to know more about them. Give this a try, and let me know if it works for you. 
 
-  
+
 
   
 
