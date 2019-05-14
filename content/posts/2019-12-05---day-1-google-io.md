@@ -14,7 +14,7 @@ tags:
 description: "Amazing Keynotes and Sessions. Connecting with some inspiring software engineers and developers"
 ---
 
-# Unexpected Beginning of the Day
+## Unexpected Beginning of the Day
 
 I caught the earliest i/o shuttle bus in San Francisco with my roommate, Dicko Sow. On the way to Mountain View, I and Dicko had discussion about jobs, interview, as well as their related challenges. Half way through our conversation, a man sat in front of us turned to us. I was a little nervous thinking we might be too loud on the bus, but unexpectedly, he said he overheard our conversation and would like to offer to help us out if we need any advice in our career path. He is **Joseph Burke, a Senior Software Engineer at Wework**. 
 
@@ -91,6 +91,10 @@ After meeting with Wayfair employees, I went through the Arcade again and had a 
 ### 2. Take Action to Get to Your Dream - One step at a time
 
   Each of us will have different directions in life. It is super important to keep working toward that dream, goal, or future vision, a step at a time. If you attended a conference and knew someone worked at your favourite company was also there, reach out to them. If you knew the company had some webinar events, signed up for them. You want to make sure that what you like, dream, vision is not an illusion. Meeting the company's employees in-person can always give you a better idea of who they are and whether you are a good match for them. 
+
+### 3. Ask for a Business Card, LinkedIn, or Email
+
+  Always remember to ask all your new friends you make at the conference for a business card, an email, wechat, whatapp, LinkedIn, or Twitter, etc. 
 
 
   ![io-after-dark-entrance](/media/google-io-2019/io-after-dark-entrance.jpg)   
