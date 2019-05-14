@@ -57,6 +57,8 @@
     "gatsby-plugin-sitemap": "^2.0.12",
     "gatsby-remark-autolink-headers": "^2.0.16",
     "gatsby-remark-copy-linked-files": "^2.0.11",
+    "gatsby-remark-embed-video": "^1.7.1",
+    "gatsby-remark-embed-youtube": "0.0.7",
     "gatsby-remark-images": "^3.0.10",
     "gatsby-remark-katex": "^3.0.4",
     "gatsby-remark-prismjs": "^3.2.7",

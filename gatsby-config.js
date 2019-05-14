@@ -15,6 +15,22 @@ module.exports = {
     author: siteConfig.author
   },
   plugins: [
+    "gatsby-remark-embed-youtube",
+    "gatsby-remark-responsive-iframe",
+    {
+      resolve: "gatsby-transformer-remark",
+      options: {
+        plugins: [
+          {
+            resolve: "gatsby-remark-embed-youtube",
+            options: {
+              width: 800,
+              height: 400
+            }
+          }
+        ]
+      }
+    },  
     {
       resolve: 'gatsby-source-filesystem',
       options: {
