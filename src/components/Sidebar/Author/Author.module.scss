@@ -6,6 +6,8 @@
     display: inline-block;
     margin-bottom: 0;
     border-radius: 50%;
+    border-width: 15px;
+    border: 2px solid $color-secondary;
     background-clip: padding-box
   }
 
