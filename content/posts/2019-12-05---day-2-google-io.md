@@ -17,7 +17,7 @@ description: "Inspirational Sessions & Sandboxes & Office Hour & Concert"
 
 ## A New Friend 
 
-At the beginning of second day, I made a new friend, Ruei-Fong Lyu, a PHP developer and a student from Taiwan. We spent time together to explore different sandboxes and sessions in the last two days of the conference. After meeting Ruei-Fong, my whole schedule for my 2nd and 3rd days have changed. I decided to spend more times visiting more sandboxes than going to sessions. 
+At the beginning of second day, I made a new friend, Ruei-Fong Lyu, a PHP developer and a student from Taiwan. We spent time together to explore different sandboxes and sessions in the last two days of the conference. After meeting Ruei-Fong, my whole schedule for my 2nd and 3rd days had changed. I decided to spend more times visiting more sandboxes than going to more sessions. 
 
 ![io-new-friend-Lyu](/media/google-io-2019/io-new-friend-Lyu.jpg) 
 
@@ -39,7 +39,7 @@ Besides Glen's session, I had also been to some other sessions throughout the da
 
 ## Sandboxes 
 
-For sandboxes, I would list out some of the resources that I found interesting, but there are definitely more than what I have listed below:  
+For sandboxes, I would list out some of the resources that I found interesting, but there were definitely more than what I have listed below:  
 
 ### Sandbox A: Web + Chrome OS + Payments
 
@@ -98,7 +98,6 @@ For sandboxes, I would list out some of the resources that I found interesting, 
   #### Film Screening: nimiia cetii, an Art and Machine Learning Project by Artist Jenna Sutela
 
   ![io-film-screening](/media/google-io-2019/io-film-screening.jpg)  
-
 
   #### Yacht and The Flaming Lips! Concert
 
