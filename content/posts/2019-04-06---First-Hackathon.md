@@ -13,7 +13,7 @@ description: "Reflection on My First Hackathon! & Thanks to HSX MartketStreet fo
 ---
   ![HSX_Hack](/media/HSX-Hackathon-2019/HSX_Hack.jpeg)  
 
-**The HSX MarketStreet Hackathon: The Consumer Consent Edition** was an approximately five days of intense Hackathon with the focus on not just the technical aspects, but more importantly the medical/business idea. 
+**The HSX MarketStreet Hackathon: The Consumer Consent Edition** was an approximately five days of intense Hackathon (May 31st - June 4th) with the focus on not just the technical aspects, but more importantly the medical/business idea. 
 
 I participated in the Hackathon with a fresh mindset to open up myself to new knowledge and experience, and I ended up learning more than I thought and also have been able to make some really **amazing connections**. 
 
