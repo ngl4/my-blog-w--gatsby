@@ -68,3 +68,5 @@ We and Faith took the Metro subway to D.C. and we went to get some food at Batha
 After the late lunch, we walked to the National Gallery of Art. We went through two floors and because it would close at around 6pm, we decided to leave early anyway to get to the Union Station. We had a long chatting time together while having some croissants. Then, we said goodbye to Faith here.
 
 The bus was delayed and we got home at around 2am.
+
+---
